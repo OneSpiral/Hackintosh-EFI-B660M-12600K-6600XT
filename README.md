@@ -22,9 +22,9 @@
 - Onboard CNVi Module Control-Disable Integrated
 - Intel VT-D
 - Speed Select Technology
-- CFG锁定
-- 快速启动
+- CFG LOCK （CFG锁定）
+- Fast BOOT （快速启动）
 ## 开启
 - Re-Size BAR Support
 - SR-IOV Support
-- 电源err ready
+- Err Ready
