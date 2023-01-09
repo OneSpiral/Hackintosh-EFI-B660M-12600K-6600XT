@@ -14,7 +14,7 @@
 处理器|i5-12600K
 显卡|蓝宝石 AMD Radeon RX 6600 XT
 声卡|AL1200C
-网卡&蓝牙|：BroadCOM 94360CS2 
+网卡&蓝牙|BroadCOM 94360CS2 
 硬盘|KIOXIA-EXCERIA G2 SSD
 ---
 # BIOS设置
